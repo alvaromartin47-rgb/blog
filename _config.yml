@@ -24,8 +24,8 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: @alvaromartin47
-    github:  https://github.com/alvaromartin-rgb
+    twitter: "@alvaromartin47"
+    github:  "https://github.com/alvaromartin-rgb"
     linkedIn: ""
     rss: rss
  
