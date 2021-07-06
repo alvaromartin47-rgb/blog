@@ -22,9 +22,9 @@ texture:
   showNav: true
   showPicker: false
   navigation:
-      title: About
+    - title: About
       url: "/about"
-      title: Resume
+    - title: Resume
       url: "/resume"
 
   # generate social links in footer
